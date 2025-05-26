@@ -1,0 +1,36 @@
+# Web Crawling
+beautifulsoup4==4.12.2
+requests==2.31.0
+urllib3==2.1.0
+lxml==4.9.3
+tqdm==4.66.1
+playwright==1.40.0
+
+# Data Processing & Analysis
+pandas==2.1.4
+numpy==1.25.2
+python-dateutil==2.8.2
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# Airflow Providers
+apache-airflow-providers-neo4j==3.4.0
+apache-airflow-providers-smtp==1.4.0
+
+# Neo4j Driver (if needed for direct connections)
+neo4j==5.15.0
+
+# Data Validation & Quality
+jsonschema==4.20.0
+validators==0.22.0
+
+# Monitoring & Alerting
+psutil==5.9.6
+
+# Logging & Debugging
+structlog==23.2.0
+
+# Additional utilities
+pytz==2023.3
+packaging==23.2

@@ -1,0 +1,13 @@
+{
+  "neo4j_default": {
+    "conn_type": "neo4j",
+    "host": "neo4j",
+    "port": 7687,
+    "login": "neo4j",
+    "password": "${NEO4J_PASSWORD}",
+    "schema": "bolt",
+    "extra": {
+      "database": "neo4j"
+    }
+  }
+} 
