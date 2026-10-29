@@ -1,7 +1,7 @@
 # Web Crawling
 beautifulsoup4==4.12.2
 requests==2.31.0
-urllib3==2.1.0
+urllib3==2.8.0
 lxml==4.9.3
 tqdm==4.66.1
 playwright==1.40.0
